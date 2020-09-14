@@ -1,0 +1,7 @@
+Trabajo práctico analizador léxico en C
+compilador: gcc
+
+Integrantes
+-Fabiola Fleiras
+-Lidia Mongelos
+
